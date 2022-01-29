@@ -1,0 +1,19 @@
+{
+  "name": "web-application",
+  "version": "1.0.0",
+  "description": "JavaScript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrelvicent/UaiPy_dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrelvicent/UaiPy_dev/issues"
+  },
+  "homepage": "https://github.com/andrelvicent/UaiPy_dev#readme"
+}
