@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/andrelvicent/UaiPy_dev/issues"
   },
-  "homepage": "https://github.com/andrelvicent/UaiPy_dev#readme"
+  "homepage": "https://github.com/andrelvicent/UaiPy_dev#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "serialport": "^9.2.8"
+  }
 }
